@@ -12,6 +12,9 @@
 
 The icons shown in the screenshot are [Sweet vscode icons](https://marketplace.visualstudio.com/items?itemName=EliverLara.sweet-vscode-icons)
 
+## Forked
+Please not that this is only a fork of the original Theme to provide support for vscodium!
+
 ## License
 
-[MIT](https://github.com/EliverLara/sweet-vscode/blob/master/LICENSE.md)
+[MIT](https://github.com/Letgamer/sweet-vscode/blob/master/LICENSE)
