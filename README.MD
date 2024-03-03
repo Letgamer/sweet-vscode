@@ -13,7 +13,7 @@
 The icons shown in the screenshot are [Sweet vscode icons](https://open-vsx.org/extension/Letgamer/sweet-vscode-icons)
 
 ## Forked
-Please not that this is only a fork of the original Theme to provide support for vscodium!
+Please note that this is only a fork of the original Theme to provide support for vscodium!
 
 ## License
 
